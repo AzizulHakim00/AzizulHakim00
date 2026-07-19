@@ -1,100 +1,77 @@
 <div align="center">
 
-# Hi, I'm Azizul Hakim Omor 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Azizul%20Hakim%20Omor&fontColor=FFFFFF&fontSize=38&fontAlignY=35&desc=CSE%20Student%20%7C%20Software%20Developer%20%7C%20AI%20and%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=16"/>
 
-### Computer Science & Engineering Student | Full-Stack Development | AI/ML | Cybersecurity
+### Building practical software and continuously improving my engineering skills.
 
-I build practical, user-focused software—from Django productivity applications and Spring Boot systems to live-tracking platforms and ethical security labs.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge\&logo=vercel\&logoColor=white)](https://my-portfolio-nine-opal-kyj5ttgspi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/azizul-hakim-omor-5991b3410/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-heythere99-1F8ACB?style=for-the-badge\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/heythere99)
-[![Profile Views](https://komarev.com/ghpvc/?username=AzizulHakim00\&style=for-the-badge\&color=2563eb)](https://github.com/AzizulHakim00)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge\&logo=vercel\&logoColor=white)](https://my-portfolio-nine-opal-kyj5ttgspi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/azizul-hakim-omor-5991b3410/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-06B6D4?style=for-the-badge\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/heythere99)
 
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
-* 🎓 Studying **Computer Science and Engineering** at **Southeast University**.
-* 💻 Building full-stack applications with **Java, Spring Boot, Python, Django, React, and TypeScript**.
-* 🤖 Exploring **artificial intelligence, machine learning, explainable AI, and intelligent software systems**.
-* 🔐 Interested in **cybersecurity, secure development, penetration-testing labs, and defensive engineering**.
-* 🧠 Strengthening problem-solving and data-structure skills through **competitive programming**.
-* 🚀 Preparing for opportunities in **backend engineering, full-stack development, AI-enabled products, and software engineering internships**.
+I am a **Computer Science and Engineering student at Southeast University** with interests in software development, artificial intelligence, machine learning, cybersecurity, and competitive programming.
 
-## 🛠️ Technology Stack
+I enjoy building practical applications with clean interfaces, secure backends, databases, APIs, and real-world problem-solving.
 
-### Languages
+## Technologies
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+<p align="center">
 
-### Frameworks, Databases and Tools
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,react,typescript,javascript,html,css,postgres,firebase,docker,git,github&perline=7"/>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+</p>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| Project                    | Highlights                                                                                                                                                                                                                | Main Technologies                                                                     | Links                                                                                                                                        |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **BusBD Intelligence**     | Enterprise-style bus booking and fleet-management platform with graphical seat selection, temporary seat locking, QR tickets, live GPS updates, multilingual interfaces, operations dashboards, and ML-service baselines. | Spring Boot, React, TypeScript, PostgreSQL/PostGIS, Redis, WebSocket, FastAPI, Docker | [Repository](https://github.com/AzizulHakim00/BusBD-Intelligence)                                                                            |
-| **TaskFlow**               | Full Django task-management application with authentication, private user data, task workflows, priorities, filters, dashboard statistics, automated tests, and production deployment support.                            | Python, Django, PostgreSQL, Gunicorn, WhiteNoise                                      | [Repository](https://github.com/AzizulHakim00/task-management-django) · [Live Demo](https://taskflow-django-dx0h.onrender.com/)              |
-| **DVWA Security Casebook** | Structured documentation of an authorized DVWA laboratory covering ten vulnerability modules, evidence screenshots, payload records, severity filtering, and defensive recommendations.                                   | Cybersecurity, DVWA, Burp Suite, JavaScript, Responsive Web UI                        | [Repository](https://github.com/AzizulHakim00/dvwa-security-casebook) · [Live Demo](https://azizulhakim00.github.io/dvwa-security-casebook/) |
-| **Developer Portfolio**    | Responsive portfolio presenting projects, technical skills, research interests, certificates, case studies, and contact channels.                                                                                         | Java, Spring Boot, Thymeleaf, HTML, CSS, JavaScript                                   | [Repository](https://github.com/AzizulHakim00/My-portfolio) · [Live Site](https://my-portfolio-nine-opal-kyj5ttgspi.vercel.app)              |
+### 🚌 BusBD Intelligence
 
-### More Projects
+Enterprise-style bus booking, fleet operations, live GPS tracking, seat management, QR tickets, multilingual interfaces, and machine-learning service integration.
 
-* ⚽ [Real Madrid Club Management](https://github.com/AzizulHakim00/RealMadrid_Club_Management)
-* 📝 [Assignment Writer Hire](https://github.com/AzizulHakim00/Assigment_writer_hire)
-* 🔐 [Cyber Security Project](https://github.com/AzizulHakim00/Cyber-Security---Project)
-* 🔗 [FoodMoboChain Firebase](https://github.com/AzizulHakim00/FoodMoboChain_Firebase)
-* 📅 [Monthly Planner](https://github.com/AzizulHakim00/Monthly-Planner)
+[View Repository](https://github.com/AzizulHakim00/BusBD-Intelligence)
 
-## 🎯 Current Focus
+---
 
-* Designing scalable backend services, REST APIs, authentication, and database-driven systems.
-* Integrating AI and machine-learning capabilities into practical software products.
-* Learning enterprise application architecture and real-time system design.
-* Improving secure coding, ethical security testing, and defensive documentation.
-* Building deployment-ready projects with clean interfaces and maintainable code.
-* Developing stronger algorithms and problem-solving skills for technical interviews.
+### ✅ TaskFlow
 
-## 📊 GitHub Activity
+A Django task-management application with authentication, private user tasks, priorities, filters, dashboard statistics, automated tests, and deployment support.
+
+[Live Application](https://taskflow-django-dx0h.onrender.com/) · [View Repository](https://github.com/AzizulHakim00/task-management-django)
+
+---
+
+### 🔐 DVWA Security Casebook
+
+A structured cybersecurity laboratory showcasing common web vulnerabilities, penetration-testing evidence, security observations, and defensive recommendations.
+
+[Live Project](https://azizulhakim00.github.io/dvwa-security-casebook/) · [View Repository](https://github.com/AzizulHakim00/dvwa-security-casebook)
+
+---
+
+### 🌐 Developer Portfolio
+
+My personal portfolio presenting projects, technical skills, research interests, certificates, and contact information.
+
+[Live Portfolio](https://my-portfolio-nine-opal-kyj5ttgspi.vercel.app) · [View Repository](https://github.com/AzizulHakim00/My-portfolio)
+
+## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AzizulHakim00&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Azizul Hakim Omor's GitHub statistics" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AzizulHakim00&show_icons=true&hide_border=true&title_color=1D4ED8&icon_color=06B6D4&text_color=475569&bg_color=00000000"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizulHakim00&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=AzizulHakim00&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizulHakim00&layout=compact&hide_border=true&title_color=1D4ED8&text_color=475569&bg_color=00000000"/>
 
 </div>
 
-## 🤝 Connect With Me
+## Connect
 
-* 🌐 [Portfolio](https://my-portfolio-nine-opal-kyj5ttgspi.vercel.app)
-* 💼 [LinkedIn](https://www.linkedin.com/in/azizul-hakim-omor-5991b3410/)
-* 🧩 [Codeforces](https://codeforces.com/profile/heythere99)
-* 📷 [Instagram](https://www.instagram.com/azizul_hakim_omor__/)
-* 👥 [Facebook](https://www.facebook.com/md.omor.7946)
-* 💻 [GitHub](https://github.com/AzizulHakim00)
+<p align="center">
 
-<div align="center">
+<a href="https://github.com/AzizulHakim00">GitHub</a> • <a href="https://www.linkedin.com/in/azizul-hakim-omor-5991b3410/">LinkedIn</a> • <a href="https://codeforces.com/profile/heythere99">Codeforces</a> • <a href="https://www.instagram.com/azizul_hakim_omor__/">Instagram</a> • <a href="https://www.facebook.com/md.omor.7946">Facebook</a>
 
-### Build useful software. Keep learning. Solve real problems.
+</p>
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,50:1D4ED8,100:06B6D4"/>
