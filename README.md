@@ -1,77 +1,42 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Azizul%20Hakim%20Omor&fontColor=FFFFFF&fontSize=38&fontAlignY=35&desc=CSE%20Student%20%7C%20Software%20Developer%20%7C%20AI%20and%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=16"/>
+<img src="./assets/azizul-hakim-omor-logo.svg" width="900" alt="Azizul Hakim Omor — AI, Software and Systems">
 
-### Building practical software and continuously improving my engineering skills.
+### CSE Student · Software Developer · AI/ML · Cybersecurity
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge\&logo=vercel\&logoColor=white)](https://my-portfolio-nine-opal-kyj5ttgspi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/azizul-hakim-omor-5991b3410/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-06B6D4?style=for-the-badge\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/heythere99)
+<a href="https://my-portfolio-nine-opal-kyj5ttgspi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B2E63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/azizul-hakim-omor-5991b3410/"><img src="https://img.shields.io/badge/LinkedIn-11A8DF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://codeforces.com/profile/heythere99"><img src="https://img.shields.io/badge/Codeforces-F26A5B?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
 
 </div>
 
-## About Me
+## About
 
-I am a **Computer Science and Engineering student at Southeast University** with interests in software development, artificial intelligence, machine learning, cybersecurity, and competitive programming.
+Computer Science and Engineering student at **Southeast University**, focused on building practical software with clean interfaces, reliable backends, databases, APIs, and secure development practices.
 
-I enjoy building practical applications with clean interfaces, secure backends, databases, APIs, and real-world problem-solving.
+**Interests:** Full-Stack Development · Artificial Intelligence · Machine Learning · Cybersecurity
 
-## Technologies
+## Core Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,django,react,typescript,javascript,html,css,postgres,firebase,docker,git,github&perline=7"/>
-
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,react,typescript,postgres,firebase,docker,git&perline=10" alt="Technology stack">
 </p>
 
-## Featured Projects
+## Selected Work
 
-### 🚌 BusBD Intelligence
+### [BusBD Intelligence](https://github.com/AzizulHakim00/BusBD-Intelligence)
+Enterprise-style bus booking, fleet operations, live tracking, seat management, and ML service integration.
 
-Enterprise-style bus booking, fleet operations, live GPS tracking, seat management, QR tickets, multilingual interfaces, and machine-learning service integration.
+### [TaskFlow](https://github.com/AzizulHakim00/task-management-django)
+Django task-management application with authentication, private user data, dashboards, tests, and deployment support.  
+[Live Application](https://taskflow-django-dx0h.onrender.com/)
 
-[View Repository](https://github.com/AzizulHakim00/BusBD-Intelligence)
-
----
-
-### ✅ TaskFlow
-
-A Django task-management application with authentication, private user tasks, priorities, filters, dashboard statistics, automated tests, and deployment support.
-
-[Live Application](https://taskflow-django-dx0h.onrender.com/) · [View Repository](https://github.com/AzizulHakim00/task-management-django)
-
----
-
-### 🔐 DVWA Security Casebook
-
-A structured cybersecurity laboratory showcasing common web vulnerabilities, penetration-testing evidence, security observations, and defensive recommendations.
-
-[Live Project](https://azizulhakim00.github.io/dvwa-security-casebook/) · [View Repository](https://github.com/AzizulHakim00/dvwa-security-casebook)
-
----
-
-### 🌐 Developer Portfolio
-
-My personal portfolio presenting projects, technical skills, research interests, certificates, and contact information.
-
-[Live Portfolio](https://my-portfolio-nine-opal-kyj5ttgspi.vercel.app) · [View Repository](https://github.com/AzizulHakim00/My-portfolio)
-
-## GitHub Activity
+### [DVWA Security Casebook](https://github.com/AzizulHakim00/dvwa-security-casebook)
+An ethical web-security laboratory documenting vulnerabilities, testing evidence, and defensive recommendations.  
+[Live Project](https://azizulhakim00.github.io/dvwa-security-casebook/)
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AzizulHakim00&show_icons=true&hide_border=true&title_color=1D4ED8&icon_color=06B6D4&text_color=475569&bg_color=00000000"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizulHakim00&layout=compact&hide_border=true&title_color=1D4ED8&text_color=475569&bg_color=00000000"/>
+[View All Projects](https://github.com/AzizulHakim00?tab=repositories)
 
 </div>
-
-## Connect
-
-<p align="center">
-
-<a href="https://github.com/AzizulHakim00">GitHub</a> • <a href="https://www.linkedin.com/in/azizul-hakim-omor-5991b3410/">LinkedIn</a> • <a href="https://codeforces.com/profile/heythere99">Codeforces</a> • <a href="https://www.instagram.com/azizul_hakim_omor__/">Instagram</a> • <a href="https://www.facebook.com/md.omor.7946">Facebook</a>
-
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,50:1D4ED8,100:06B6D4"/>
